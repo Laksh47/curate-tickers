@@ -1,0 +1,37 @@
+# Job runs at 11:00 UTC (6AM ET) and at 23:00 UTC (6PM ET) everyday!
+
+name: Curate stock tickers from FinnHub API
+
+on:
+  schedule:
+    - cron: "0 11,23 * * *"
+
+jobs:
+  curate_tickers:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install modules
+        run: npm install
+      - name: Run script
+        run: npm run start
+        env:
+          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+      - name: Commit changes to save state
+        uses: EndBug/add-and-commit@v5
+        with:
+          author_name: Ticker Curator Github Bot
+          author_email: laksh47@protonmail.com
+          message: "Updating tickers.json to reflect the market"
+          add: "*.json"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
