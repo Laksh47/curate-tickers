@@ -1,0 +1,21 @@
+{
+  "name": "curate-tickers",
+  "version": "1.0.0",
+  "description": "get stocks tickers/symbols from different sources and curate them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stocks",
+    "tickers",
+    "finance",
+    "money",
+    "api"
+  ],
+  "author": "Laksh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
