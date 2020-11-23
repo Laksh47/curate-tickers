@@ -2,6 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 
 const FILENAME = "tickers.json";
+const { log } = console;
 
 const saveState = (stateJSON) => {
   const stateJSONString = JSON.stringify(stateJSON, null, 2);
@@ -30,12 +31,14 @@ const finnHub = {
 
   getTickers: async (exchange) => {
     const USTickersUrl = `${finnHub.finnHubUrl}?exchange=${exchange}`;
+    log(`Gathering tickers from ${exchange} exchange`);
     try {
       const response = await axios(USTickersUrl, finnHub.buildRequest());
       return finnHub.parseResponse(response);
     } catch (err) {
+      log("Something went wrong, prevent updating tickers.json");
       log(err);
-      return [];
+      process.exit(-1);
     }
   },
 };
