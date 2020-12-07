@@ -1,13 +1,13 @@
-# Job runs at 11:00 UTC (6AM ET) and at 23:00 UTC (6PM ET) everyday!
+# Job runs at 11:15 UTC (6:15AM ET) and at 23:15 UTC (6:15PM ET) everyday!
 
-name: Curate stock tickers from FinnHub API
+name: Validate curated tickers with Yahoo API
 
 on:
   schedule:
-    - cron: "0 11,23 * * *"
+    - cron: "15 11,23 * * *"
 
 jobs:
-  curate_tickers:
+  validate_tickers:
     runs-on: ubuntu-latest
 
     strategy:
@@ -22,10 +22,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Install modules
         run: npm install
-      - name: Run script
-        run: npm run get_finnhub
-        env:
-          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+      - name: Validate tickers with Yahoo
+        run: npm run get_yahoo
       - name: Commit changes to save state
         uses: EndBug/add-and-commit@v5
         with:

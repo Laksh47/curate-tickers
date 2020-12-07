@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 
-const FILENAME = "tickers.json";
+const FILENAME = "json_files/finnhub_tickers_1.json";
 const { log } = console;
 
 const saveState = (stateJSON) => {

@@ -4,7 +4,8 @@
   "description": "get stocks tickers/symbols from different sources and curate them",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "get_finnhub": "node finnHub.js",
+    "get_yahoo": "node yahoo.js"
   },
   "keywords": [
     "stocks",
