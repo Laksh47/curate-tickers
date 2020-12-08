@@ -31,7 +31,7 @@ jobs:
         with:
           author_name: Ticker Curator Github Bot
           author_email: laksh47@protonmail.com
-          message: "Updating tickers.json to reflect the market"
+          message: "Updating finnhub_tickers json file to reflect the market"
           add: "*.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -27,9 +27,9 @@ jobs:
       - name: Commit changes to save state
         uses: EndBug/add-and-commit@v5
         with:
-          author_name: Ticker Curator Github Bot
+          author_name: Ticker Validator Github Bot
           author_email: laksh47@protonmail.com
-          message: "Updating tickers.json to reflect the market"
+          message: "Updating yahoo_validations json files"
           add: "*.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
