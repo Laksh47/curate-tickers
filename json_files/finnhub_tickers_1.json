@@ -15838,7 +15838,7 @@
     },
     {
       "currency": "USD",
-      "description": "PERTH MINT PHYSICAL GOLD ETF",
+      "description": "GOLDMAN SACHS PHYSICAL GOLD",
       "displaySymbol": "AAAU",
       "symbol": "AAAU",
       "type": "ETF"
@@ -16027,6 +16027,13 @@
     },
     {
       "currency": "",
+      "description": "ABCELLERA BIOLOGICS INC",
+      "displaySymbol": "ABCL",
+      "symbol": "ABCL",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "ABCAM PLC-SPON ADR",
       "displaySymbol": "ABCM",
       "symbol": "ABCM",
@@ -16083,7 +16090,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "AIRBNB INC-CLASS A",
       "displaySymbol": "ABNB",
       "symbol": "ABNB",
       "type": ""
@@ -16160,9 +16167,23 @@
     },
     {
       "currency": "",
+      "description": "ACIES ACQUISITION CORP-CL A",
+      "displaySymbol": "ACAC",
+      "symbol": "ACAC",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "ACIES ACQUISITION CORP",
       "displaySymbol": "ACACU",
       "symbol": "ACACU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "ACACW",
+      "symbol": "ACACW",
       "type": ""
     },
     {
@@ -16671,14 +16692,14 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "EDOC ACQUISITION CORP-CL A",
       "displaySymbol": "ADOC",
       "symbol": "ADOC",
       "type": ""
     },
     {
       "currency": "",
-      "description": "",
+      "description": "DOC ACQUISITION CORP-RIGHTS",
       "displaySymbol": "ADOCR",
       "symbol": "ADOCR",
       "type": ""
@@ -17721,9 +17742,9 @@
     },
     {
       "currency": "",
-      "description": "APARTMENT INCOME REIT CO-W/I",
-      "displaySymbol": "AIRC#",
-      "symbol": "AIRC#",
+      "description": "APARTMENT INCOME REIT CO",
+      "displaySymbol": "AIRC",
+      "symbol": "AIRC",
       "type": ""
     },
     {
@@ -17781,13 +17802,6 @@
       "displaySymbol": "AIV",
       "symbol": "AIV",
       "type": "EQS"
-    },
-    {
-      "currency": "",
-      "description": "APARTMENT INVT & MGMT CO-W/I",
-      "displaySymbol": "AIV#",
-      "symbol": "AIV#",
-      "type": ""
     },
     {
       "currency": "USD",
@@ -20227,6 +20241,27 @@
     },
     {
       "currency": "",
+      "description": "AMERICAS TECHNOLOGY ACQUISIT",
+      "displaySymbol": "ATA=",
+      "symbol": "ATA=",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "ALTIMAR ACQUISITION CORP - A",
+      "displaySymbol": "ATAC",
+      "symbol": "ATAC",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "ATAC+",
+      "symbol": "ATAC+",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "ALTIMAR ACQUISITION CORP",
       "displaySymbol": "ATAC=",
       "symbol": "ATAC=",
@@ -20829,7 +20864,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "AVANTIS CORE MUNICIPAL FIXED",
       "displaySymbol": "AVMU",
       "symbol": "AVMU",
       "type": ""
@@ -21809,6 +21844,13 @@
     },
     {
       "currency": "",
+      "description": "BIOATLA INC",
+      "displaySymbol": "BCAB",
+      "symbol": "BCAB",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "BROOKLINE CAPITAL ACQUISITIO",
       "displaySymbol": "BCACU",
       "symbol": "BCACU",
@@ -22263,6 +22305,20 @@
       "type": "ETF"
     },
     {
+      "currency": "",
+      "description": "OPES ACQUISITION CORP",
+      "displaySymbol": "BFI",
+      "symbol": "BFI",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "BFIIW",
+      "symbol": "BFIIW",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "BANKFINANCIAL CORP",
       "displaySymbol": "BFIN",
@@ -22281,13 +22337,6 @@
       "description": "BLACKROCK MUNICIPAL INC TRST",
       "displaySymbol": "BFK",
       "symbol": "BFK",
-      "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "BLACKROCK FL MUNI 2020 TERM",
-      "displaySymbol": "BFO",
-      "symbol": "BFO",
       "type": "EQS"
     },
     {
@@ -22383,7 +22432,7 @@
     },
     {
       "currency": "USD",
-      "description": "BLACKSTONE/GSO STRATEGIC C",
+      "description": "BLACKSTONE STRATEGIC CREDIT",
       "displaySymbol": "BGB",
       "symbol": "BGB",
       "type": "EQS"
@@ -22467,7 +22516,7 @@
     },
     {
       "currency": "USD",
-      "description": "BLACKSTONE/GSO LONG-SHORT CR",
+      "description": "BLACKSTONE LONG-SHORT CREDIT",
       "displaySymbol": "BGX",
       "symbol": "BGX",
       "type": "EQS"
@@ -22600,9 +22649,23 @@
     },
     {
       "currency": "",
+      "description": "",
+      "displaySymbol": "BHSE",
+      "symbol": "BHSE",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "BULL HORN HOLDINGS CORP",
       "displaySymbol": "BHSEU",
       "symbol": "BHSEU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "BHSEW",
+      "symbol": "BHSEW",
       "type": ""
     },
     {
@@ -22950,13 +23013,6 @@
     },
     {
       "currency": "USD",
-      "description": "BLACKROCK MUNI 2020 TERM TR",
-      "displaySymbol": "BKK",
-      "symbol": "BKK",
-      "type": "EQS"
-    },
-    {
-      "currency": "USD",
       "description": "BNY MELLON US LARGE CAP CORE",
       "displaySymbol": "BKLC",
       "symbol": "BKLC",
@@ -23236,6 +23292,13 @@
       "type": "EQS"
     },
     {
+      "currency": "",
+      "description": "BLUE WATER ACQUISITION CORP/",
+      "displaySymbol": "BLUWU",
+      "symbol": "BLUWU",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "VANGUARD LONG-TERM BOND ETF",
       "displaySymbol": "BLV",
@@ -23426,7 +23489,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "BLUE HORIZON BNE ETF",
       "displaySymbol": "BNE",
       "symbol": "BNE",
       "type": ""
@@ -24140,13 +24203,6 @@
     },
     {
       "currency": "USD",
-      "description": "INVESCO BULLETSHARES 2020 CO",
-      "displaySymbol": "BSCK",
-      "symbol": "BSCK",
-      "type": "ETF"
-    },
-    {
-      "currency": "USD",
       "description": "INVESCO BULLETSHARES 2021 CO",
       "displaySymbol": "BSCL",
       "symbol": "BSCL",
@@ -24266,13 +24322,6 @@
     },
     {
       "currency": "USD",
-      "description": "INVESCO BULLETSHARES 2020 HI",
-      "displaySymbol": "BSJK",
-      "symbol": "BSJK",
-      "type": "ETF"
-    },
-    {
-      "currency": "USD",
       "description": "INVESCO BULLETSHARES 2021 HI",
       "displaySymbol": "BSJL",
       "symbol": "BSJL",
@@ -24329,7 +24378,7 @@
     },
     {
       "currency": "USD",
-      "description": "BLACKSTONE/GSO SENIOR FLOAT",
+      "description": "BLACKSTONE SENIOR FLOATING",
       "displaySymbol": "BSL",
       "symbol": "BSL",
       "type": "EQS"
@@ -25428,7 +25477,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "CBRE ACQUISITION HOLDINGS IN",
       "displaySymbol": "CBAH=",
       "symbol": "CBAH=",
       "type": ""
@@ -25868,6 +25917,13 @@
       "type": "DR"
     },
     {
+      "currency": "",
+      "description": "CHURCHILL CAPITAL CORP V",
+      "displaySymbol": "CCV=",
+      "symbol": "CCV=",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "CHURCHILL CAPITAL CORP II-A",
       "displaySymbol": "CCX",
@@ -26275,7 +26331,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "CERTARA INC",
       "displaySymbol": "CERT",
       "symbol": "CERT",
       "type": ""
@@ -26692,13 +26748,6 @@
       "displaySymbol": "CHEKZ",
       "symbol": "CHEKZ",
       "type": "WAR"
-    },
-    {
-      "currency": "USD",
-      "description": "AGFIQ US MARKET NEUTRAL VALU",
-      "displaySymbol": "CHEP",
-      "symbol": "CHEP",
-      "type": "ETF"
     },
     {
       "currency": "USD",
@@ -28500,6 +28549,13 @@
       "type": "EQS"
     },
     {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "COOLU",
+      "symbol": "COOLU",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "MR COOPER GROUP INC",
       "displaySymbol": "COOP",
@@ -29467,6 +29523,20 @@
     },
     {
       "currency": "",
+      "description": "CERBERUS TELECOM ACQUISIT-A",
+      "displaySymbol": "CTAC",
+      "symbol": "CTAC",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "CTAC+",
+      "symbol": "CTAC+",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "CERBERUS TELECOM ACQUISITION",
       "displaySymbol": "CTAC=",
       "symbol": "CTAC=",
@@ -29474,7 +29544,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "CARNEY TECHNOLOGY ACQUISITIO",
       "displaySymbol": "CTAQU",
       "symbol": "CTAQU",
       "type": ""
@@ -29674,13 +29744,6 @@
       "displaySymbol": "CTXS",
       "symbol": "CTXS",
       "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "",
-      "displaySymbol": "CTY",
-      "symbol": "CTY",
-      "type": "BND"
     },
     {
       "currency": "USD",
@@ -29894,7 +29957,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "CONVERSION LABS INC",
       "displaySymbol": "CVLB",
       "symbol": "CVLB",
       "type": ""
@@ -30223,7 +30286,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "CYCLO THERAPEUTICS INC",
       "displaySymbol": "CYTH",
       "symbol": "CYTH",
       "type": ""
@@ -30657,9 +30720,23 @@
     },
     {
       "currency": "",
+      "description": "DECARBONIZATION PLUS ACQU-A",
+      "displaySymbol": "DCRB",
+      "symbol": "DCRB",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "DECARBONIZATION PLUS ACQUISI",
       "displaySymbol": "DCRBU",
       "symbol": "DCRBU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "DCRBW",
+      "symbol": "DCRBW",
       "type": ""
     },
     {
@@ -31686,7 +31763,7 @@
     },
     {
       "currency": "",
-      "description": "TRINE ACQUISITION CORP-A",
+      "description": "DESKTOP METAL INC-A",
       "displaySymbol": "DM",
       "symbol": "DM",
       "type": ""
@@ -31879,13 +31956,6 @@
       "displaySymbol": "DNK",
       "symbol": "DNK",
       "type": "DR"
-    },
-    {
-      "currency": "USD",
-      "description": "DUNKIN' BRANDS GROUP INC",
-      "displaySymbol": "DNKN",
-      "symbol": "DNKN",
-      "type": "EQS"
     },
     {
       "currency": "USD",
@@ -32357,6 +32427,13 @@
       "type": "ETF"
     },
     {
+      "currency": "",
+      "description": "DISTILLATE INTERNATIONAL FUN",
+      "displaySymbol": "DSTX",
+      "symbol": "DSTX",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "BLACKROCK DEBT STRATEGIES FD",
       "displaySymbol": "DSU",
@@ -32694,7 +32771,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "DELWINDS INSURANCE ACQUISITI",
       "displaySymbol": "DWIN=",
       "symbol": "DWIN=",
       "type": ""
@@ -33400,6 +33477,13 @@
       "type": ""
     },
     {
+      "currency": "",
+      "description": "EDTECHX HOLDINGS ACQUISITION",
+      "displaySymbol": "EDTXU",
+      "symbol": "EDTXU",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "NEW ORIENTAL EDUCATIO-SP ADR",
       "displaySymbol": "EDU",
@@ -33961,13 +34045,6 @@
     },
     {
       "currency": "USD",
-      "description": "",
-      "displaySymbol": "ELJ",
-      "symbol": "ELJ",
-      "type": "BND"
-    },
-    {
-      "currency": "USD",
       "description": "ELLOMAY CAPITAL LTD",
       "displaySymbol": "ELLO",
       "symbol": "ELLO",
@@ -34014,13 +34091,6 @@
       "displaySymbol": "ELTK",
       "symbol": "ELTK",
       "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "",
-      "displaySymbol": "ELU",
-      "symbol": "ELU",
-      "type": "BND"
     },
     {
       "currency": "USD",
@@ -36900,6 +36970,13 @@
       "type": "ETF"
     },
     {
+      "currency": "",
+      "description": "4D MOLECULAR THERAPEUTICS IN",
+      "displaySymbol": "FDMT",
+      "symbol": "FDMT",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "FIRST TRUST DJ INTERNET IND",
       "displaySymbol": "FDN",
@@ -36996,27 +37073,6 @@
       "displaySymbol": "FE",
       "symbol": "FE",
       "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "FLYING EAGLE ACQUISITION-A",
-      "displaySymbol": "FEAC",
-      "symbol": "FEAC",
-      "type": "EQS"
-    },
-    {
-      "currency": "",
-      "description": "",
-      "displaySymbol": "FEAC+",
-      "symbol": "FEAC+",
-      "type": ""
-    },
-    {
-      "currency": "",
-      "description": "FLYING EAGLE ACQUISITION COR",
-      "displaySymbol": "FEAC=",
-      "symbol": "FEAC=",
-      "type": ""
     },
     {
       "currency": "USD",
@@ -37209,13 +37265,6 @@
     },
     {
       "currency": "USD",
-      "description": "BARCLAYS ETN+ FI ENHANCED EU",
-      "displaySymbol": "FFEU",
-      "symbol": "FFEU",
-      "type": "SP"
-    },
-    {
-      "currency": "USD",
       "description": "FBL FINANCIAL GROUP INC-CL A",
       "displaySymbol": "FFG",
       "symbol": "FFG",
@@ -37339,6 +37388,20 @@
       "displaySymbol": "FGEN",
       "symbol": "FGEN",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "1347 PROPERTY INSURANCE HOLD",
+      "displaySymbol": "FGF",
+      "symbol": "FGF",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "FGFPP",
+      "symbol": "FGFPP",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -37465,6 +37528,13 @@
       "displaySymbol": "FICO",
       "symbol": "FICO",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "FT INTERNATIONAL DEV CAP STR",
+      "displaySymbol": "FICS",
+      "symbol": "FICS",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -37699,13 +37769,6 @@
     },
     {
       "currency": "USD",
-      "description": "BARCLAYS ETN+ FI ENHNCD GL-B",
-      "displaySymbol": "FIYY",
-      "symbol": "FIYY",
-      "type": "SP"
-    },
-    {
-      "currency": "USD",
       "description": "NATIONAL BEVERAGE CORP",
       "displaySymbol": "FIZZ",
       "symbol": "FIZZ",
@@ -37755,7 +37818,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "FRAZIER LIFESCIENCES ACQUIS",
       "displaySymbol": "FLACU",
       "symbol": "FLACU",
       "type": ""
@@ -37850,13 +37913,6 @@
       "displaySymbol": "FLEH",
       "symbol": "FLEH",
       "type": "ETF"
-    },
-    {
-      "currency": "USD",
-      "description": "FI ENHANCE EUR50 ETN SERIESB",
-      "displaySymbol": "FLEU",
-      "symbol": "FLEU",
-      "type": "SP"
     },
     {
       "currency": "USD",
@@ -38399,13 +38455,6 @@
     },
     {
       "currency": "USD",
-      "description": "FT MEGA CAP ALPHADEX FUND",
-      "displaySymbol": "FMK",
-      "symbol": "FMK",
-      "type": "ETF"
-    },
-    {
-      "currency": "USD",
       "description": "FEDERATED HERMES PREMIER MUN",
       "displaySymbol": "FMN",
       "symbol": "FMN",
@@ -38900,13 +38949,6 @@
       "displaySymbol": "FRAK",
       "symbol": "FRAK",
       "type": "ETF"
-    },
-    {
-      "currency": "USD",
-      "description": "FRANCESCAS HOLDINGS CORP",
-      "displaySymbol": "FRAN",
-      "symbol": "FRAN",
-      "type": "EQS"
     },
     {
       "currency": "USD",
@@ -39848,13 +39890,6 @@
     },
     {
       "currency": "USD",
-      "description": "FIRST TRUST VALUE LINE 100",
-      "displaySymbol": "FVL",
-      "symbol": "FVL",
-      "type": "ETF"
-    },
-    {
-      "currency": "USD",
       "description": "FIVERR INTERNATIONAL LTD",
       "displaySymbol": "FVRR",
       "symbol": "FVRR",
@@ -40771,6 +40806,13 @@
       "type": ""
     },
     {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "GFX=",
+      "symbol": "GFX=",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "GRUPO FINANCIERO GALICIA-ADR",
       "displaySymbol": "GGAL",
@@ -41185,7 +41227,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "GLOBIS ACQUISITION CORP",
       "displaySymbol": "GLAQU",
       "symbol": "GLAQU",
       "type": ""
@@ -43271,34 +43313,6 @@
     },
     {
       "currency": "USD",
-      "description": "HL ACQUISITIONS CORP",
-      "displaySymbol": "HCCH",
-      "symbol": "HCCH",
-      "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "HL ACQUISITIONS CORP-RIGHTS",
-      "displaySymbol": "HCCHR",
-      "symbol": "HCCHR",
-      "type": "TRT"
-    },
-    {
-      "currency": "USD",
-      "description": "HL ACQUISITIONS CORP",
-      "displaySymbol": "HCCHU",
-      "symbol": "HCCHU",
-      "type": "STP"
-    },
-    {
-      "currency": "USD",
-      "description": "",
-      "displaySymbol": "HCCHW",
-      "symbol": "HCCHW",
-      "type": "WAR"
-    },
-    {
-      "currency": "USD",
       "description": "HERITAGE-CRYSTAL CLEAN INC",
       "displaySymbol": "HCCI",
       "symbol": "HCCI",
@@ -43813,6 +43827,20 @@
       "description": "",
       "displaySymbol": "HIG-G",
       "symbol": "HIG-G",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "HIG ACQUISITION CORP-CLASS A",
+      "displaySymbol": "HIGA",
+      "symbol": "HIGA",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "HIGA+",
+      "symbol": "HIGA+",
       "type": ""
     },
     {
@@ -44734,7 +44762,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "FUSION FUEL GREEN PLC-A",
       "displaySymbol": "HTOO",
       "symbol": "HTOO",
       "type": ""
@@ -45028,7 +45056,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "HYDROFARM HOLDINGS GROUP INC",
       "displaySymbol": "HYFM",
       "symbol": "HYFM",
       "type": ""
@@ -45238,7 +45266,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "HORIZON ACQUIS CORP II -CL A",
       "displaySymbol": "HZON",
       "symbol": "HZON",
       "type": ""
@@ -45409,13 +45437,6 @@
       "description": "ISHARES IBONDS MAR 2023 TERM",
       "displaySymbol": "IBDD",
       "symbol": "IBDD",
-      "type": "ETF"
-    },
-    {
-      "currency": "USD",
-      "description": "ISHARES IBONDS DEC 2020 TERM",
-      "displaySymbol": "IBDL",
-      "symbol": "IBDL",
       "type": "ETF"
     },
     {
@@ -48752,7 +48773,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "JPMORGAN CARBON TRANSITION",
       "displaySymbol": "JCTR",
       "symbol": "JCTR",
       "type": ""
@@ -49634,7 +49655,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "ADASINA SOCIAL JUSTICE GLB",
       "displaySymbol": "JSTC",
       "symbol": "JSTC",
       "type": ""
@@ -49900,7 +49921,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "KRANESHARES CICC CHINA CONS",
       "displaySymbol": "KBUY",
       "symbol": "KBUY",
       "type": ""
@@ -50555,13 +50576,6 @@
       "displaySymbol": "KOKU",
       "symbol": "KOKU",
       "type": ""
-    },
-    {
-      "currency": "USD",
-      "description": "VANECK COAL ETF",
-      "displaySymbol": "KOL",
-      "symbol": "KOL",
-      "type": "ETF"
     },
     {
       "currency": "USD",
@@ -51671,9 +51685,23 @@
     },
     {
       "currency": "",
+      "description": "LEFTERIS ACQUISITION CORP -A",
+      "displaySymbol": "LFTR",
+      "symbol": "LFTR",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "LEFTERIS ACQUISITION CORP",
       "displaySymbol": "LFTRU",
       "symbol": "LFTRU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "LFTRW",
+      "symbol": "LFTRW",
       "type": ""
     },
     {
@@ -52770,6 +52798,13 @@
     },
     {
       "currency": "",
+      "description": "LUX HEALTH TECH ACQUIS-CL A",
+      "displaySymbol": "LUXA",
+      "symbol": "LUXA",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "LUX HEALTH TECH ACQUISITION",
       "displaySymbol": "LUXAU",
       "symbol": "LUXAU",
@@ -52777,7 +52812,14 @@
     },
     {
       "currency": "",
-      "description": "EMLES LUXRUY GOODS ETF",
+      "description": "",
+      "displaySymbol": "LUXAW",
+      "symbol": "LUXAW",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "EMLES LUXURY GOODS ETF",
       "displaySymbol": "LUXE",
       "symbol": "LUXE",
       "type": ""
@@ -53677,6 +53719,13 @@
       "displaySymbol": "MDWD",
       "symbol": "MDWD",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "MDWT",
+      "symbol": "MDWT",
+      "type": ""
     },
     {
       "currency": "",
@@ -55101,9 +55150,23 @@
     },
     {
       "currency": "",
+      "description": "MOTION ACQUISITION CORP-CL A",
+      "displaySymbol": "MOTN",
+      "symbol": "MOTN",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "MOTION ACQUISITION CORP",
       "displaySymbol": "MOTNU",
       "symbol": "MOTNU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "MOTNW",
+      "symbol": "MOTNW",
       "type": ""
     },
     {
@@ -55122,7 +55185,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "MOTIVE CAPITAL CORP",
       "displaySymbol": "MOTV=",
       "symbol": "MOTV=",
       "type": ""
@@ -55245,6 +55308,13 @@
       "displaySymbol": "MQY",
       "symbol": "MQY",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "MARQUEE RAINE ACQUISITION CO",
+      "displaySymbol": "MRACU",
+      "symbol": "MRACU",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -56493,6 +56563,13 @@
       "type": "EQS"
     },
     {
+      "currency": "",
+      "description": "NANOBIOTIX SA - ADR",
+      "displaySymbol": "NBTX",
+      "symbol": "NBTX",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "NEUBERGER BERMAN CA MUNI",
       "displaySymbol": "NBW",
@@ -56676,7 +56753,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "NEBULA CARAVEL ACQUISITION",
       "displaySymbol": "NEBCU",
       "symbol": "NEBCU",
       "type": ""
@@ -59244,6 +59321,13 @@
       "type": "DR"
     },
     {
+      "currency": "",
+      "description": "ORIENTAL CULTURE HOLDING LTD",
+      "displaySymbol": "OCG",
+      "symbol": "OCG",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "OCUGEN INC",
       "displaySymbol": "OCGN",
@@ -59875,27 +59959,6 @@
     },
     {
       "currency": "USD",
-      "description": "OPES ACQUISITION CORP",
-      "displaySymbol": "OPES",
-      "symbol": "OPES",
-      "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "OPES ACQUISITION CORP",
-      "displaySymbol": "OPESU",
-      "symbol": "OPESU",
-      "type": "STP"
-    },
-    {
-      "currency": "USD",
-      "description": "",
-      "displaySymbol": "OPESW",
-      "symbol": "OPESW",
-      "type": "WAR"
-    },
-    {
-      "currency": "USD",
       "description": "OPGEN INC",
       "displaySymbol": "OPGN",
       "symbol": "OPGN",
@@ -60274,9 +60337,23 @@
     },
     {
       "currency": "",
+      "description": "OTR ACQUISITION CORP-CLASS A",
+      "displaySymbol": "OTRA",
+      "symbol": "OTRA",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "OTR ACQUISITION CORP",
       "displaySymbol": "OTRAU",
       "symbol": "OTRAU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "OTRAW",
+      "symbol": "OTRAW",
       "type": ""
     },
     {
@@ -61212,7 +61289,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "PERIPHAS CAPITAL PARTNERING",
       "displaySymbol": "PCPC=",
       "symbol": "PCPC=",
       "type": ""
@@ -62283,20 +62360,6 @@
     },
     {
       "currency": "USD",
-      "description": "1347 PROPERTY INSURANCE HOLD",
-      "displaySymbol": "PIH",
-      "symbol": "PIH",
-      "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "",
-      "displaySymbol": "PIHPP",
-      "symbol": "PIHPP",
-      "type": "PRF"
-    },
-    {
-      "currency": "USD",
       "description": "POLARIS INC",
       "displaySymbol": "PII",
       "symbol": "PII",
@@ -62539,13 +62602,6 @@
       "displaySymbol": "PLBC",
       "symbol": "PLBC",
       "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "PRINCIPAL US LARGE-CAP MULTI",
-      "displaySymbol": "PLC",
-      "symbol": "PLC",
-      "type": "ETF"
     },
     {
       "currency": "USD",
@@ -63879,13 +63935,6 @@
     },
     {
       "currency": "USD",
-      "description": "PRINCIPAL U.S. SMALL-MIDCAP",
-      "displaySymbol": "PSM",
-      "symbol": "PSM",
-      "type": "ETF"
-    },
-    {
-      "currency": "USD",
       "description": "INVESCO BALANCED MULTI-ASSET",
       "displaySymbol": "PSMB",
       "symbol": "PSMB",
@@ -64278,7 +64327,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "PUBMATIC INC-CLASS A",
       "displaySymbol": "PUBM",
       "symbol": "PUBM",
       "type": ""
@@ -64947,6 +64996,20 @@
       "displaySymbol": "QNST",
       "symbol": "QNST",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "SIMPLIFY GROWTH EQTY PL CONV",
+      "displaySymbol": "QQC",
+      "symbol": "QQC",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "SIMPLIFY GR EQY PL DWN CONVE",
+      "displaySymbol": "QQD",
+      "symbol": "QQD",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -66301,6 +66364,20 @@
     },
     {
       "currency": "",
+      "description": "RICE ACQUISITION CORP-CL A",
+      "displaySymbol": "RICE",
+      "symbol": "RICE",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "RICE+",
+      "symbol": "RICE+",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "RICE ACQUISITION CORP",
       "displaySymbol": "RICE=",
       "symbol": "RICE=",
@@ -66665,7 +66742,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "RMG ACQUISITION CORP II",
       "displaySymbol": "RMGBU",
       "symbol": "RMGBU",
       "type": ""
@@ -66879,6 +66956,13 @@
       "displaySymbol": "ROBT",
       "symbol": "ROBT",
       "type": "ETF"
+    },
+    {
+      "currency": "",
+      "description": "ROTH CH ACQUISITION CO",
+      "displaySymbol": "ROCCU",
+      "symbol": "ROCCU",
+      "type": ""
     },
     {
       "currency": "",
@@ -67397,6 +67481,20 @@
       "displaySymbol": "RVP",
       "symbol": "RVP",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "REVIVA PHARMACEUTICALS HOLDI",
+      "displaySymbol": "RVPH",
+      "symbol": "RVPH",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "RVPHW",
+      "symbol": "RVPHW",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -68456,6 +68554,13 @@
       "type": "ETF"
     },
     {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "SCOAU",
+      "symbol": "SCOAU",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "COMSCORE INC",
       "displaySymbol": "SCOR",
@@ -68496,6 +68601,13 @@
       "displaySymbol": "SCPL",
       "symbol": "SCPL",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "SCOPUS BIOPHARMA INC",
+      "displaySymbol": "SCPS",
+      "symbol": "SCPS",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -69059,7 +69171,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "SEAPORT GLOBAL ACQUI-CLASS A",
       "displaySymbol": "SGAM",
       "symbol": "SGAM",
       "type": ""
@@ -69770,6 +69882,20 @@
       "displaySymbol": "SKF",
       "symbol": "SKF",
       "type": "ETF"
+    },
+    {
+      "currency": "",
+      "description": "FLYING EAGLE ACQUISITION-A",
+      "displaySymbol": "SKLZ",
+      "symbol": "SKLZ",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "SKLZ+",
+      "symbol": "SKLZ+",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -70508,7 +70634,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "SENIOR CONNECT ACQUISITION C",
       "displaySymbol": "SNRHU",
       "symbol": "SNRHU",
       "type": ""
@@ -70851,6 +70977,13 @@
     },
     {
       "currency": "",
+      "description": "SPAC & NEW ISSUE ETF",
+      "displaySymbol": "SPCX",
+      "symbol": "SPCX",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "SIMPLIFY US EQUITY PLUS DOWN",
       "displaySymbol": "SPD",
       "symbol": "SPD",
@@ -71121,6 +71254,20 @@
       "displaySymbol": "SPNS",
       "symbol": "SPNS",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "SUPERNOVA PARTNERS ACQUISI-A",
+      "displaySymbol": "SPNV",
+      "symbol": "SPNV",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "SPNV+",
+      "symbol": "SPNV+",
+      "type": ""
     },
     {
       "currency": "",
@@ -71698,9 +71845,23 @@
     },
     {
       "currency": "",
+      "description": "SARISSA CAPITAL ACQUISITI-A",
+      "displaySymbol": "SRSA",
+      "symbol": "SRSA",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "SARISSA CAPITAL ACQUISITION",
       "displaySymbol": "SRSAU",
       "symbol": "SRSAU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "SRSAW",
+      "symbol": "SRSAW",
       "type": ""
     },
     {
@@ -74540,9 +74701,23 @@
     },
     {
       "currency": "",
+      "description": "TURMERIC ACQUISITION CORP-A",
+      "displaySymbol": "TMPM",
+      "symbol": "TMPM",
+      "type": ""
+    },
+    {
+      "currency": "",
       "description": "TURMERIC ACQUISITION CORP",
       "displaySymbol": "TMPMU",
       "symbol": "TMPMU",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "TMPMW",
+      "symbol": "TMPMW",
       "type": ""
     },
     {
@@ -75898,27 +76073,6 @@
     },
     {
       "currency": "USD",
-      "description": "TENZING ACQUISITION CORP",
-      "displaySymbol": "TZAC",
-      "symbol": "TZAC",
-      "type": "EQS"
-    },
-    {
-      "currency": "USD",
-      "description": "TENZING ACQUISITION CORP",
-      "displaySymbol": "TZACU",
-      "symbol": "TZACU",
-      "type": "STP"
-    },
-    {
-      "currency": "USD",
-      "description": "",
-      "displaySymbol": "TZACW",
-      "symbol": "TZACW",
-      "type": "WAR"
-    },
-    {
-      "currency": "USD",
       "description": "TRAVELZOO",
       "displaySymbol": "TZOO",
       "symbol": "TZOO",
@@ -76667,6 +76821,13 @@
       "type": "EQS"
     },
     {
+      "currency": "",
+      "description": "UPSTART HOLDINGS INC",
+      "displaySymbol": "UPST",
+      "symbol": "UPST",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "PROSHARES ULTRA FTSE EUROPE",
       "displaySymbol": "UPV",
@@ -77308,6 +77469,13 @@
       "description": "",
       "displaySymbol": "UZD",
       "symbol": "UZD",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "UZE",
+      "symbol": "UZE",
       "type": ""
     },
     {
@@ -78072,6 +78240,13 @@
       "displaySymbol": "VIRC",
       "symbol": "VIRC",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "VIRI",
+      "symbol": "VIRI",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -79104,7 +79279,7 @@
     },
     {
       "currency": "",
-      "description": "",
+      "description": "VIVOS THERAPEUTICS INC",
       "displaySymbol": "VVOS",
       "symbol": "VVOS",
       "type": ""
@@ -79658,20 +79833,6 @@
     {
       "currency": "",
       "description": "",
-      "displaySymbol": "WFC-T",
-      "symbol": "WFC-T",
-      "type": ""
-    },
-    {
-      "currency": "",
-      "description": "",
-      "displaySymbol": "WFC-V",
-      "symbol": "WFC-V",
-      "type": ""
-    },
-    {
-      "currency": "",
-      "description": "",
       "displaySymbol": "WFC-W",
       "symbol": "WFC-W",
       "type": ""
@@ -79880,6 +80041,13 @@
       "type": "EQS"
     },
     {
+      "currency": "",
+      "description": "CONTEXTLOGIC INC - A",
+      "displaySymbol": "WISH",
+      "symbol": "WISH",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "WIPRO LTD-ADR",
       "displaySymbol": "WIT",
@@ -80046,6 +80214,13 @@
       "displaySymbol": "WNS",
       "symbol": "WNS",
       "type": "DR"
+    },
+    {
+      "currency": "",
+      "description": "WUNONG NET TECHNOLOGY CO LTD",
+      "displaySymbol": "WNW",
+      "symbol": "WNW",
+      "type": ""
     },
     {
       "currency": "USD",
@@ -80524,6 +80699,13 @@
       "type": "ETF"
     },
     {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "WWOW",
+      "symbol": "WWOW",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "WESTWATER RESOURCES INC",
       "displaySymbol": "WWR",
@@ -80972,6 +81154,13 @@
       "type": "EQS"
     },
     {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "XOMAP",
+      "symbol": "XOMAP",
+      "type": ""
+    },
+    {
       "currency": "USD",
       "description": "EXONE CO/THE",
       "displaySymbol": "XONE",
@@ -81040,6 +81229,20 @@
       "displaySymbol": "XPO",
       "symbol": "XPO",
       "type": "EQS"
+    },
+    {
+      "currency": "",
+      "description": "DPCM CAPITAL INC - CLASS A",
+      "displaySymbol": "XPOA",
+      "symbol": "XPOA",
+      "type": ""
+    },
+    {
+      "currency": "",
+      "description": "",
+      "displaySymbol": "XPOA+",
+      "symbol": "XPOA+",
+      "type": ""
     },
     {
       "currency": "",
